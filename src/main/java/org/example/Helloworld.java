@@ -12,4 +12,8 @@ public static void printsomething()
 {
     System.out.println("Print something");
 
+}
+public void dosomething()
+{
+    System.out.println("Do something");
 }}
